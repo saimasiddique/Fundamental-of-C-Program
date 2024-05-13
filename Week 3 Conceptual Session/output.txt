@@ -1,0 +1,2 @@
+3th largest value is 7
+2 5 7 10 12 Duplicate: 0 Unique: 5

@@ -1,0 +1,1 @@
+// Find out sum of first n odd numbers
